@@ -1,4 +1,4 @@
-package com.java.design.patterns.common;
+package com.java.design.patterns.creational.builder;
 
 
 public class PersonImmutable {
