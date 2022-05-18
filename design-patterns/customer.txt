@@ -1,0 +1,3 @@
+1001,10000,osman,yay,osmany,123456,PLANTINUIM
+1002,12000,ali,ulas,aliu,123456,GOLD
+1003,14000,veli,kaba,velik,123456,SILVER
