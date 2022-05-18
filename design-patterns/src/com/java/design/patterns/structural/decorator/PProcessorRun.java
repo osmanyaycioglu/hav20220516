@@ -1,4 +1,4 @@
-package com.java.design.patterns.common.printer;
+package com.java.design.patterns.structural.decorator;
 
 import java.util.Arrays;
 
@@ -17,5 +17,6 @@ public class PProcessorRun {
                                                                                          2,
                                                                                          2));
         System.out.println(pProcessorLoc.getGreetingString(personLoc));
+        System.out.println(new PProcessorSayinDecorator(new PProcessorHazretleriDecorator(new PProcessorEnSevDecorator(new PProcessor()))));
     }
 }

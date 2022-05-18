@@ -1,4 +1,4 @@
-package com.java.design.patterns.common.printer;
+package com.java.design.patterns.structural.decorator;
 
 import java.util.List;
 
